@@ -29,11 +29,8 @@ The `twoSum` function iterates through the array using two nested loops. It chec
 
 ## Example
 
-```cpp
-Enter the number of elements: 5
-Enter the array elements: 2 7 11 15 3
-Enter the target sum: 9
-0 4
+![TwoSumArray](https://github.com/HamzaSajjad141/LeetCode_TwoSumArray_Problem_without_using_vector/assets/125465047/6e1f615b-dcd6-4160-8771-c81d8be2cca6)
+)
 
 
 
